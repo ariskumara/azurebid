@@ -1,0 +1,12 @@
+C:\Users\welyl\Documents\demo\chatdemo\bin\Debug\netcoreapp2.0\chatdemo.deps.json
+C:\Users\welyl\Documents\demo\chatdemo\bin\Debug\netcoreapp2.0\chatdemo.runtimeconfig.json
+C:\Users\welyl\Documents\demo\chatdemo\bin\Debug\netcoreapp2.0\chatdemo.runtimeconfig.dev.json
+C:\Users\welyl\Documents\demo\chatdemo\bin\Debug\netcoreapp2.0\chatdemo.dll
+C:\Users\welyl\Documents\demo\chatdemo\bin\Debug\netcoreapp2.0\chatdemo.pdb
+C:\Users\welyl\Documents\demo\chatdemo\obj\Debug\netcoreapp2.0\chatdemo.csproj.CoreCompileInputs.cache
+C:\Users\welyl\Documents\demo\chatdemo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\welyl\Documents\demo\chatdemo\obj\Debug\netcoreapp2.0\chatdemo.AssemblyInfoInputs.cache
+C:\Users\welyl\Documents\demo\chatdemo\obj\Debug\netcoreapp2.0\chatdemo.AssemblyInfo.cs
+C:\Users\welyl\Documents\demo\chatdemo\obj\Debug\netcoreapp2.0\chatdemo.dll
+C:\Users\welyl\Documents\demo\chatdemo\obj\Debug\netcoreapp2.0\chatdemo.pdb
+C:\Users\welyl\Documents\demo\chatdemo\obj\Debug\netcoreapp2.0\chatdemo.csprojAssemblyReference.cache
